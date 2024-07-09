@@ -1,4 +1,3 @@
-# Display-a-file
-
-## Output
-![Screenshot 2024-07-08 095715](https://github.com/Jovita08/Display-a-file/assets/94174503/a07bf58a-292f-469d-8736-7ffaa3881057)
+# File_Upload
+## Output:
+![image](https://github.com/NITHISHKUMAR-P/File_Upload/assets/93427017/b4fcc0ed-3630-406a-af30-2bd6eb7c4dab)
