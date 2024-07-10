@@ -48,6 +48,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
+
 const upload = multer({ dest: 'uploads/' });
 const PORT = 3500;
 
@@ -68,4 +69,4 @@ app.listen(PORT, () => {
 });
 ```
 ## Output:
-![image](https://github.com/NITHISHKUMAR-P/File_Upload/assets/93427017/b4fcc0ed-3630-406a-af30-2bd6eb7c4dab)
+![op](https://github.com/Jovita08/Display-a-file/assets/94174503/554e176a-b2f1-4358-a4fe-19cd840214d0)
